@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Generations of London English"
-permalink: /gle/
+filename: /gle
 ---
 
 Here I'll talk about GLE

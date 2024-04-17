@@ -1,6 +1,6 @@
 layout: page
 title: "About me"
-permalink: /about
+permalink: /about/
 
 Hi! I'm Joe Pearce and I'm a Research Associate at the University of York (Generations of London English) and the University of Glasgow (My Voice, My Glasgow). 
 My PhD research looked at gender and age variation in voice quality in Scottish accents, combining a larger corpus-based study with an in-depth qualitative investigation of a trans woman's experience with her voice.

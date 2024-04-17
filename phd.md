@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Scottish voice quality"
+title: "PhD"
 permalink: /phd/
 ---
 

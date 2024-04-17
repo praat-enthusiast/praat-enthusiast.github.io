@@ -2,4 +2,4 @@ Hi! I'm Joe Pearce and I'm a Research Associate at the University of York (Gener
 
 This website can direct you towards Praat scripts I've written, and serves as the home of my WhisperX tutorial for linguists.
 
-![Photo of Joe Pearce](/docs/assets/photo_of_me.jpeg)
+<img src="/docs/assets/photo_of_me.jpeg" width="200" height="100">

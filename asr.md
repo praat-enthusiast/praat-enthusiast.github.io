@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ASR for linguists"
+title: "ASR for sociolinguists"
 permalink: /asr/
 ---
 

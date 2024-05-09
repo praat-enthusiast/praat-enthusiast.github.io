@@ -1,3 +1,5 @@
 theme: minima
 title: Joe Pearce
 description: About me
+exclude:
+  -asr

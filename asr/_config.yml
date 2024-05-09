@@ -1,6 +1,0 @@
-project:
-  type: website
-  output-dir: asr
-  baseurl: "/asr"
-  title: "ASR for sociolinguists"
-  remote_theme: sighingnow/jekyll-gitbook

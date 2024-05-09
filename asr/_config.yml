@@ -2,3 +2,4 @@ project:
   type: website
   output-dir: asr
   title: "ASR for sociolinguists"
+  remote_theme: sighingnow/jekyll-gitbook

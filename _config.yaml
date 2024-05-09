@@ -1,5 +1,3 @@
-theme: minima
+remote_theme: sighingnow/jekyll-gitbook
 title: Joe Pearce
 description: About me
-exclude:
-  -asr

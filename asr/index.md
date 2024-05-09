@@ -30,7 +30,7 @@ Please note, I am not an expert in any of this, but a mere sociolinguist/phoneti
 |**API**| Application Programming Interface - Part of a program stored on someone else's computer that allows data and services to be sent between your computer and theirs. APIs are used in ASR as the backend of more user-friendly ASR applications, which don't require you to download the ASR model, but instead let you send your data to a cloud-based implementation of it, request for it to be transcribed, and receive a transcribed file in return.|
 |**GUI**| Graphical User Interface - An application where you click buttons to make things happen, rather than writing code. |
 |**Diarization**| In a multi-speaker audio sample, the answer to who is speaking when.|
-|**Command line**| | A text-based interface for interacting with the files on your computer. You might for example, use it to tell your ASR to run on a particular folder. Introduction to it [here](https://tutorial.djangogirls.org/en/intro_to_command_line/). |
+|**Command line**| A text-based interface for interacting with the files on your computer. You might for example, use it to tell your ASR to run on a particular folder. Introduction to it [here](https://tutorial.djangogirls.org/en/intro_to_command_line/). |
 
 # What tools are out there?
 
